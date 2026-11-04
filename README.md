@@ -49,6 +49,10 @@ python tools/find_guobjectarray.py "<path to PBZ.exe>"
 
 `RESULT: OK` means the signature still works. Otherwise the tool prints fallback 7-byte signatures to use in `Register()`.
 
+## Mods by the same author
+
+- Undying Heroic Spirit Memory Flower Fix: https://www.nexusmods.com/phantombladezero/mods/259
+
 ## License
 
 [MIT](LICENSE) © 2026 M4kis3Kurisu
@@ -83,5 +87,7 @@ python tools/find_guobjectarray.py "<PBZ.exe 路径>"
 ```
 
 输出 `RESULT: OK` 表示签名仍然有效；否则工具会给出可替换到 `Register()` 中的 7 字节备用签名。
+
+**同作者的 mod**：不灭侠胆记忆修复 https://www.nexusmods.com/phantombladezero/mods/259
 
 **许可证**：[MIT](LICENSE) © 2026 M4kis3Kurisu。本文件为非官方玩家作品，与《影之刃零》开发商及 UE4SS 项目无关。
